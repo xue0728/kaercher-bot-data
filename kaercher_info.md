@@ -1,36 +1,4 @@
-kaercher_urls = {
-    "Home_and_Garden_家用與園藝": [
-        "https://www.kaercher.com/tw/home-garden.html",
-        "https://www.kaercher.com/tw/home-garden/255366.html",
-        "https://www.kaercher.com/tw/home-garden/mobile-cleaning.html",
-        "https://www.kaercher.com/tw/home-garden/255387.html",
-        "https://www.kaercher.com/tw/home-garden/255250.html",
-        "https://www.kaercher.com/tw/home-garden/sweepers.html",
-        "https://www.kaercher.com/tw/home-garden/vacuum-cleaners.html",
-        "https://www.kaercher.com/tw/home-garden/multi-functional-vacuum-cleaners.html",
-        "https://www.kaercher.com/tw/home-garden/steam-cleaners.html",
-        "https://www.kaercher.com/tw/home-garden/window-vacs.html",
-        "https://www.kaercher.com/tw/home-garden/785357.html",
-        "https://www.kaercher.com/tw/home-garden/795191.html",
-        "https://www.kaercher.com/tw/home-garden/home-garden-cleaning-and-care-agents.html",
-        "https://www.kaercher.com/tw/accessory.html"
-    ],
-    "Professional_專業機種": [
-        "https://www.kaercher.com/tw/professional.html",
-        "https://www.kaercher.com/tw/professional/high-pressure-cleaners.html",
-        "https://www.kaercher.com/tw/professional/dry-vacuum-cleaners.html",
-        "https://www.kaercher.com/tw/professional/wet-and-dry-vacuum-cleaners.html",
-        "https://www.kaercher.com/tw/professional/industrial-vacuums.html",
-        "https://www.kaercher.com/tw/professional/floor-scrubbers-scrubber-dryers.html",
-        "https://www.kaercher.com/tw/professional/carpet-cleaner.html",
-        "https://www.kaercher.com/tw/professional/829895.html",
-        "https://www.kaercher.com/tw/professional/sweepers-and-vacuum-sweepers.html",
-        "https://www.kaercher.com/tw/professional/municipal-equipment.html",
-        "https://www.kaercher.com/tw/professional/vehicle-cleaning-systems.html",
-        "https://www.kaercher.com/tw/professional/steam-cleaners-steam-vacuum-cleaners.html",
-        "https://www.kaercher.com/tw/professional/dry-ice-cleaning.html",
-        "https://www.kaercher.com/tw/professional/container-cleaning.html",
-        "https://www.kaercher.com/tw/professional/cleaning-and-care-products.html",
-        "https://www.kaercher.com/tw/accessory.html"
-    ]
-}
+https://www.kaercher.com/tw/home-garden.html
+https://www.kaercher.com/tw/home-garden/255366.html https://www.kaercher.com/tw/home-garden/mobile-cleaning.html https://www.kaercher.com/tw/home-garden/255387.html https://www.kaercher.com/tw/home-garden/255250.html https://www.kaercher.com/tw/home-garden/sweepers.html https://www.kaercher.com/tw/home-garden/vacuum-cleaners.html https://www.kaercher.com/tw/home-garden/multi-functional-vacuum-cleaners.html https://www.kaercher.com/tw/home-garden/steam-cleaners.html https://www.kaercher.com/tw/home-garden/window-vacs.html https://www.kaercher.com/tw/home-garden/785357.html https://www.kaercher.com/tw/home-garden/795191.html https://www.kaercher.com/tw/home-garden/home-garden-cleaning-and-care-agents.html https://www.kaercher.com/tw/accessory.html 
+https://www.kaercher.com/tw/professional.html
+https://www.kaercher.com/tw/professional/high-pressure-cleaners.html https://www.kaercher.com/tw/professional/dry-vacuum-cleaners.html https://www.kaercher.com/tw/professional/wet-and-dry-vacuum-cleaners.html https://www.kaercher.com/tw/professional/industrial-vacuums.html https://www.kaercher.com/tw/professional/floor-scrubbers-scrubber-dryers.html https://www.kaercher.com/tw/professional/carpet-cleaner.html https://www.kaercher.com/tw/professional/829895.html https://www.kaercher.com/tw/professional/sweepers-and-vacuum-sweepers.html https://www.kaercher.com/tw/professional/municipal-equipment.html https://www.kaercher.com/tw/professional/vehicle-cleaning-systems.html https://www.kaercher.com/tw/professional/steam-cleaners-steam-vacuum-cleaners.html https://www.kaercher.com/tw/professional/dry-ice-cleaning.html https://www.kaercher.com/tw/professional/container-cleaning.html https://www.kaercher.com/tw/professional/cleaning-and-care-products.html https://www.kaercher.com/tw/accessory.html
