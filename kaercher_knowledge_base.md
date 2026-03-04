@@ -1,42 +1,52 @@
 # Kärcher 德國凱馳 - 產品知識庫與服務指南
 
-本文件提供德國凱馳 (Kärcher) 產品線的完整分類與應用指南，主要分為「家用與園藝系列」與「專業商用系列」。
+本文件提供德國凱馳產品分類與對應的官方網址。
 
 ## 壹、家用與園藝系列 (Home & Garden)
-針對一般家庭、庭院、車庫及日常清潔需求設計，強調輕巧、易收納與高效率。
+家用系列總覽網址：https://www.kaercher.com/tw/home-garden.html
 
-### 1. 高壓清洗機 (High-Pressure Cleaners)
-* **用途**：清洗汽車、機車、庭院地板、外牆、青苔與戶外家具。
-* **特色**：提供不同壓力等級（如 K2 到 K5 系列），壓力越高越能應付頑固污垢。具備多種噴槍配件可替換，省水且清潔力強。
-
-### 2. 室內清潔設備
-* **蒸氣清洗機 (Steam Cleaners)**：利用高溫蒸氣殺菌去污，不需化學清潔劑。適合清潔廚房油污、浴室水垢、地板及沙發布面。
-* **各式吸塵器 (Vacuum Cleaners)**：包含乾式吸塵器與多功能乾濕兩用吸塵器。乾濕兩用款可直接吸取積水與碎屑，適合車庫或地下室清潔。
-* **洗窗機 (Window Vacs)**：電動吸水設計，刮水同時將污水吸入機身，不留水痕，適合玻璃、鏡面與磁磚。
-
-### 3. 戶外與特殊清潔
-* **行動清洗機 (Mobile Cleaning)**：內建水箱與電池的輕量化設備，適合出外露營、清洗腳踏車或寵物腳掌，不受限於水龍頭與電源。
-* **掃地機 (Sweepers)**：手推式設計，清掃庭院落葉與街道灰塵的速度比傳統掃把快上數倍。
-
----
+* **高壓清洗機**：清洗汽車、機車、庭院地板、外牆青苔。
+  > 產品連結：https://www.kaercher.com/tw/home-garden/255366.html
+* **行動清洗機 (Mobile Cleaning)**：內建水箱與電池，適合露營、洗腳踏車、寵物清潔。
+  > 產品連結：https://www.kaercher.com/tw/home-garden/mobile-cleaning.html
+* **掃地機 (Sweepers)**：手推式設計，快速清掃庭院落葉與街道灰塵。
+  > 產品連結：https://www.kaercher.com/tw/home-garden/sweepers.html
+* **乾式/一般吸塵器 (Vacuum Cleaners)**：家用日常清潔。
+  > 產品連結：https://www.kaercher.com/tw/home-garden/vacuum-cleaners.html
+* **多功能乾濕兩用吸塵器**：可吸積水與碎屑，適合車庫或地下室。
+  > 產品連結：https://www.kaercher.com/tw/home-garden/multi-functional-vacuum-cleaners.html
+* **蒸氣清洗機 (Steam Cleaners)**：高溫殺菌去污，免化學清潔劑，適合廚房油污、浴室沙發。
+  > 產品連結：https://www.kaercher.com/tw/home-garden/steam-cleaners.html
+* **電動洗窗機 (Window Vacs)**：刮水同步吸污水，不留水痕，適合玻璃磁磚。
+  > 產品連結：https://www.kaercher.com/tw/home-garden/window-vacs.html
+* **家用清潔劑與保養品**：
+  > 產品連結：https://www.kaercher.com/tw/home-garden/home-garden-cleaning-and-care-agents.html
 
 ## 貳、專業與商用系列 (Professional)
-針對工廠、飯店、餐廳、市區街道及大型交通工具設計，強調耐操、大容量與極致的清潔效能。
+專業系列總覽網址：https://www.kaercher.com/tw/professional.html
 
-### 1. 專業級清洗設備
-* **專業高壓清洗機 (High-Pressure Cleaners)**：分為冷水與熱水高壓清洗機。熱水機種能輕易溶解重油污，適合食品加工廠、農業與重工業。
-* **車輛清洗系統 (Vehicle Cleaning Systems)**：針對加油站、車隊或專業洗車場設計的自動化或半自動化洗車設備。
+* **專業高壓清洗機**：冷熱水機型，溶解重油污，適合工廠、農業、重工業。
+  > 產品連結：https://www.kaercher.com/tw/professional/high-pressure-cleaners.html
+* **車輛自動清洗系統**：加油站、車隊洗車設備。
+  > 產品連結：https://www.kaercher.com/tw/professional/vehicle-cleaning-systems.html
+* **專業乾式吸塵器**：飯店、辦公室大面積除塵。
+  > 產品連結：https://www.kaercher.com/tw/professional/dry-vacuum-cleaners.html
+* **專業乾濕兩用吸塵器**：
+  > 產品連結：https://www.kaercher.com/tw/professional/wet-and-dry-vacuum-cleaners.html
+* **特殊工業吸塵器 (Industrial Vacuums)**：針對工廠粉塵、金屬碎屑專用。
+  > 產品連結：https://www.kaercher.com/tw/professional/industrial-vacuums.html
+* **洗地機 (Floor Scrubbers)**：自動灑水刷洗吸乾，適合賣場、醫院大面積地板。
+  > 產品連結：https://www.kaercher.com/tw/professional/floor-scrubbers-scrubber-dryers.html
+* **地毯清洗機 (Carpet Cleaners)**：深層噴抽清洗，飯店辦公室必備。
+  > 產品連結：https://www.kaercher.com/tw/professional/carpet-cleaner.html
+* **掃地機與真空掃地車**：大型倉儲、戶外廣場清掃。
+  > 產品連結：https://www.kaercher.com/tw/professional/sweepers-and-vacuum-sweepers.html
+* **乾冰清洗機 (Dry Ice Cleaning)**：無水不傷設備，適合精密機台、模具配電盤。
+  > 產品連結：https://www.kaercher.com/tw/professional/dry-ice-cleaning.html
+* **市區街道清掃車 (Municipal Equipment)**：多功能市政專用車。
+  > 產品連結：https://www.kaercher.com/tw/professional/municipal-equipment.html
+* **專業清潔劑與保養品**：
+  > 產品連結：https://www.kaercher.com/tw/professional/cleaning-and-care-products.html
 
-### 2. 地坪與地毯維護
-* **洗地機 (Floor Scrubbers)**：自動灑水、刷洗並同步將污水吸乾。分為手推式與駕駛式，適合大賣場、醫院與工廠大面積地板。
-* **地毯清洗機 (Carpet Cleaners)**：深層噴抽清洗技術，將清潔劑噴入地毯纖維並強力抽回污水，飯店與辦公室必備。
-* **掃地機與真空掃地車 (Sweepers and Vacuum Sweepers)**：適用於大型倉儲、停車場與戶外廣場的粉塵與垃圾清掃。
-
-### 3. 特殊工業清潔
-* **乾濕兩用/工業吸塵器 (Industrial Vacuums)**：針對工廠粉塵、金屬碎屑或有毒粉塵設計的專用機種，具備強大吸力與特殊過濾系統。
-* **乾冰清洗機 (Dry Ice Cleaning)**：利用壓縮空氣噴射乾冰顆粒，無水、無殘留物、不傷設備表面，適合精密機台、模具與配電盤清潔。
-* **容器內部清洗系統 (Container Cleaning)**：專門清洗大型儲槽、反應爐或運輸桶內部的自動化高壓清洗設備。
-* **市區街道清掃車 (Municipal Equipment)**：多功能市政專用車，可掛載清掃、除雪或割草配件，維護城市環境。
-
-## 參、配件與清潔劑 (Accessories & Cleaning Agents)
-無論家用或商用設備，凱馳皆提供原廠專用配件（如各式噴頭、延長管、刷頭）以及對應的環保清潔劑（如洗車精、石材清潔劑、重油污清潔劑），以達到最佳清潔效果並延長機器壽命。
+## 參、原廠配件 (Accessories)
+通用配件網址：https://www.kaercher.com/tw/accessory.html
